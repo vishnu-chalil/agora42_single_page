@@ -1,0 +1,153 @@
+/* navbar background color */
+.nav-bg {
+  background-color: black;
+}
+
+/* style of landing page */
+.landing-bg {
+  margin-top: 55px;
+}
+
+.landingimg {
+  width: 100%;
+}
+
+/* style of the launching components */
+.launch-bg {
+  background-color: black;
+}
+
+.launch-soon {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+
+/* style of navbar text position  */
+.Nan-content {
+  text-align: center;
+}
+
+/* style of application logo */
+.App-logo {
+  height: 5vmin;
+  margin-left: 100px;
+}
+
+/* style of the about us components */
+.about-bg {
+  background-color: white;
+}
+
+.about-team {
+  height: 60vmin;
+  width: 90vmin;
+  display: block;
+  margin: 0 auto;
+}
+
+/* style of the whyus components */
+.whyus-bg {
+  background-color: black;
+  color: white;
+}
+
+.whyus {
+  color: #cacaca6e;
+}
+
+/* style of the team member components */
+.team-mem-bg {
+  background-color: rgba(198, 195, 239, 0.45);
+}
+
+.team-mem {
+  height: 70vmin;
+  width: 90vmin;
+  display: block;
+  margin: 0 auto;
+}
+
+/* style of the contact us components */
+.contact-bg {
+  background-color: black;
+  color: white;
+}
+
+/* style of the footer components */
+.footer-bg {
+  background-color: #000000e8;
+  color: white;
+}
+
+.mt-10 {
+  margin-top: 10vmin;
+  margin-bottom: 2vmin;
+}
+
+.mb-10 {
+  margin-bottom: 10vmin;
+}
+
+.mt-8 {
+  margin-top: 8vmin;
+}
+
+.mt-20 {
+  margin-top: 20vmin;
+}
+
+.mt-15 {
+  margin-top: 15vmin;
+}
+
+.mt-30 {
+  margin-top: 30vmin;
+}
+
+/* style of the portfolio components */
+.port-team {
+  height: 45vmin;
+  width: 85vmin;
+  display: block;
+  margin: 0 auto;
+}
+
+/* style of the magzine components */
+.magzine-bg {
+  background-color: #d9d2c8;
+}
+
+.magzine-team {
+  height: 65vmin;
+  width: 50vmin;
+  display: block;
+  margin: 0 auto;
+}
+
+.para-content {
+  text-align: justify;
+}
+
+.Accordion.Toggle {
+  text-decoration: none;
+}
+
+.card-mem-bor {
+  transition: box-shadow 0.3s;
+  border: solid 1px #ccc;
+  padding: 10px 10px;
+}
+
+.card-mem-bor:hover {
+  box-shadow: 0px 7px 10px #242541;
+}
+
+.card-mem-out-bor {
+  transition: box-shadow 0.3s;
+  border: solid 7px #ccc;
+}
+
+.card-mem-out-bor:hover {
+  box-shadow: 0px 7px 10px #242541;
+}
